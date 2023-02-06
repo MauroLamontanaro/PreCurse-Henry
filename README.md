@@ -1,2 +1,2 @@
 # PreCurse-Henry
-este es un repositorio de prueba de precurse de Henry
+este repositorio es una prueba de como clonar un archivo desde gitHub
